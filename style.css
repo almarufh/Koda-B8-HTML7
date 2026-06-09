@@ -44,11 +44,6 @@ button {
     background-color: blue;
     color: #e2e0eb;
 }
-.help {
-    background-color: rgb(235, 219, 226);
-    color: black;
-    font-size: 25px;
-}
 .result {
     grid-column: span 4; 
     width: 100%;
